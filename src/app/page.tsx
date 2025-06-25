@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-import Image from 'next/image';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { useState } from 'react';
@@ -346,7 +345,7 @@ export default function Home() {
                           </div>
                           
                           <p className="text-gray-700 text-sm leading-relaxed mb-4 line-clamp-4">
-                            "{review.review}"
+                            &ldquo;{review.review}&rdquo;
                           </p>
                         </div>
                         

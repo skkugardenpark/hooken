@@ -23,7 +23,7 @@ export default function AboutPage() {
         <section className="py-20 bg-cream-white animate-flip-in">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-4xl font-bold text-charcoal mb-8 animate-shimmer-enhanced animate-zoom-in-rotate">
-              "우리는 치킨만 파는 게 아니라, 시간을 튀깁니다"
+              &ldquo;우리는 치킨만 파는 게 아니라, 시간을 튀깁니다&rdquo;
             </h2>
             <p className="text-lg text-gray-600 leading-relaxed animate-slide-in-enhanced animate-delay-400">
               후켄에서는 단순히 음식을 파는 것이 아니라, 소중한 추억과 따뜻한 시간을 만들어갑니다.<br />
@@ -44,12 +44,12 @@ export default function AboutPage() {
                 <div className="space-y-6 text-gray-600 leading-relaxed">
                   <p className="animate-elastic-in animate-delay-200">
                     1997년 봄, 전라남도 순천의 작은 골목에서 후켄의 첫 번째 이야기가 시작되었습니다. 
-                    창업주 김사장님은 "진짜 맛있는 치킨을 동네 사람들과 나누고 싶다"는 단순한 마음으로 
+                    창업주 김사장님은 &ldquo;진짜 맛있는 치킨을 동네 사람들과 나누고 싶다&rdquo;는 단순한 마음으로 
                     첫 매장의 문을 열었습니다.
                   </p>
                   <p className="animate-elastic-in animate-delay-400">
                     처음엔 작은 호프집이었지만, 정성스럽게 튀긴 치킨과 따뜻한 서비스로 입소문이 나기 시작했습니다. 
-                    "후켄 가면 치킨이 정말 맛있어"라는 말이 동네 곳곳에 퍼지면서, 
+                    &ldquo;후켄 가면 치킨이 정말 맛있어&rdquo;라는 말이 동네 곳곳에 퍼지면서, 
                     자연스럽게 많은 사람들이 찾아오는 명소가 되었습니다.
                   </p>
                 </div>
@@ -198,9 +198,9 @@ export default function AboutPage() {
             
             <div className="mt-12 p-6 bg-white bg-opacity-10 rounded-lg">
               <p className="text-lg leading-relaxed">
-                "후켄은 단순한 치킨 브랜드가 아닙니다. <br />
+                &ldquo;후켄은 단순한 치킨 브랜드가 아닙니다. <br />
                 우리는 사람과 사람을 잇는 맛있는 연결고리이고, <br />
-                소중한 추억을 만드는 따뜻한 공간입니다."
+                소중한 추억을 만드는 따뜻한 공간입니다.&rdquo;
               </p>
               <p className="mt-4 text-accent-yellow font-semibold">
                 - 후켄 창업주 김사장님
